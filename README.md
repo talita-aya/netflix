@@ -1,4 +1,3 @@
-# netflix
-something like a netflix interface (en)
+# Netflix
 
-algo parecido com a interface da netflix (pt-br)
+A netflix interface coded in HTML and CSS, without backend configuration, only a project to learn more about the basics of FrontEnd
